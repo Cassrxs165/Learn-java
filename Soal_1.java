@@ -7,6 +7,7 @@ public class Soal_1 {
         long original = sc.nextLong();
         long n = Math.abs(original);
         int sum = 0;
+        boolean
         
 
         while (n> 0) {
